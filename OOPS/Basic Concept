@@ -1,0 +1,25 @@
+Like other general-purpose programming languages, Python is also an object-oriented language since its beginning. 
+It allows us to develop applications using an Object-Oriented approach. In Python, we can easily create and use classes and objects.
+
+An object-oriented paradigm is to design the program using classes and objects. The object is related to real-word entities such as book,
+house, pencil, etc. The oops concept focuses on writing the reusable code. It is a widespread technique to solve the problem by creating objects.
+Class
+Object
+Method
+Inheritance
+Polymorphism
+Data Abstraction
+Encapsulation
+Class
+The class can be defined as a collection of objects. It is a logical entity that has some specific attributes and methods. 
+For example: if you have an employee class, then it should contain an attribute and method, i.e. an email id, name, age, salary, etc.
+
+Object
+The object is an entity that has state and behavior. It may be any real-world object like the mouse, keyboard, chair, table, pen, etc.
+
+Method
+The method is a function that is associated with an object. In Python, a method is not unique to class instances. Any object type can have methods.
+
+Inheritance
+Inheritance is the most important aspect of object-oriented programming, which simulates the real-world concept of inheritance.
+It specifies that the child object acquires all the properties and behaviors of the parent object.
